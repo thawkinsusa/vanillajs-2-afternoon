@@ -1,0 +1,26 @@
+{
+  "name": "vanillajs-2-afternoon",
+  "version": "1.0.0",
+  "description": "In this project, we'll provide two JavaScript applications to help improve your skills. There are no dependencies for this project; they are designed to demonstrate how to write applications with just the structures provided by the language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thawkinsusa/vanillajs-2-afternoon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thawkinsusa/vanillajs-2-afternoon/issues"
+  },
+  "homepage": "https://github.com/thawkinsusa/vanillajs-2-afternoon#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  }
+}
